@@ -1,1 +1,1 @@
-# Ethixainew
+# EthixAI

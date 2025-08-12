@@ -1,0 +1,11 @@
+age,sex,race,income,feature1,feature2
+25,Male,White,>50K,0.5,3
+45,Male,White,>50K,0.7,4
+35,Female,Black,<=50K,0.2,2
+50,Male,White,>50K,0.8,5
+30,Female,White,<=50K,0.3,2
+40,Female,Black,<=50K,0.4,3
+55,Male,White,>50K,0.9,5
+28,Female,White,<=50K,0.25,2
+33,Male,Black,<=50K,0.6,3
+60,Male,White,>50K,0.95,5
